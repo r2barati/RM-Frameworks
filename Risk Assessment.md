@@ -73,4 +73,4 @@
 
 ---
 
-This comprehensive template covers the essential components of a risk assessment process. 
+This template covers the essential components of a risk assessment process. 

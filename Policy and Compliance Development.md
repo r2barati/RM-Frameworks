@@ -68,6 +68,3 @@
 
 [Provide contact details for individuals or departments responsible for policy-related inquiries.]
 
----
-
-This template is a starting point, and you can modify it to fit your organization's specific policy development and compliance practices. Markdown allows you to format the content with headings, lists, tables, and other elements to create a well-structured policy document.
